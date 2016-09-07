@@ -2,13 +2,16 @@
   box-sizing:border-box;
 }
 
+li {
+  list-style:none;
+}
 .clearfix:after{
   content: '';
   display: block;
   clear: both;
 }
 
-#container{
+.container{
   padding:10px;
   background-color:#66ccff;
 }
@@ -23,11 +26,11 @@ header, footer{
   width: 100%;
 }
 
-aside{
+aside, proj-image{
   width: 25%;
 }
 
-section{
+section, proj-desc{
   width: 75%;
 }
 
@@ -41,12 +44,19 @@ section{
 
 aside, section{
   height:300px;
+  padding:10px;
 }
 
+.nav {
+  display: flex;
+justify-content:space-around;
+
+}
 .nav li {
-  display:inline-block;
-  
+  font-family:'Calibri';
 }
 
-
-
+.footer-info {
+  display:flex;
+  justify-content: space-between;
+}
