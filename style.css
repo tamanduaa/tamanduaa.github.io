@@ -28,7 +28,13 @@ section, footer{
 }
 
 header, footer{
-  height: 280px;
+  height: 250px;
+  width: 100%;
+  background-color: #808080;
+}
+
+header {
+  height: 300px;
   width: 100%;
   background-color: #808080;
 }
