@@ -62,7 +62,7 @@ aside, section{
 
 .nav {
   display: flex;
-justify-content:space-around;
+justify-content:flex-start;
 
 }
 .nav li {
