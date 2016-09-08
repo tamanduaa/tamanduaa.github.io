@@ -27,7 +27,7 @@ section, footer{
 header, footer{
   height: 280px;
   width: 100%;
-  color: #808080;
+  background-color: #808080;
 }
 
 aside, proj-image{
