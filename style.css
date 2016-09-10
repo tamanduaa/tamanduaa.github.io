@@ -41,17 +41,17 @@ section, footer{
 footer{
   height: 250px;
   width: 100%;
-  background-color: #000;
+  background-color: #333;
 }
  
 footer p, footer a {
-  color:#fff;
+  color:#e0e0e0;
 }
 
 header {
   height: 300px;
   width: 100%;
-  background-color: #808080;
+  background-color: #fff;
 }
 
 aside, proj-image{
