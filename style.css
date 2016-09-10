@@ -77,3 +77,8 @@ justify-content:flex-start;
 .logo {
   text-align:center;
 }
+
+.project-thumb {
+  display: flex;
+  justify-content:center;
+}
