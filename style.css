@@ -81,6 +81,9 @@ justify-content:flex-start;
   display:flex;
   justify-content: space-between;
 }
+.footer-info div {
+  width:30%;
+}
 
 .logo {
   text-align:center;
