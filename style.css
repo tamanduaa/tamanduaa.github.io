@@ -2,6 +2,9 @@
   box-sizing:border-box;
   font-family: 'Calibri';
 }
+html {
+  font-size: 14px;
+}
 h1 {
   color: #ff8c1a;
   font-family: 'Yanone Kaffeesatz', sans-serif;
