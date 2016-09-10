@@ -77,6 +77,11 @@ justify-content:flex-start;
 .nav li {
   font-family:'Calibri';
 }
+.nav img {
+  height: auto;
+  -webkit-transition: .3s ease-in-out;
+  transition: .3s ease-in-out;
+}
 
 .footer-info {
   display:flex;
