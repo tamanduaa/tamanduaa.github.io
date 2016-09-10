@@ -3,7 +3,7 @@
   font-family: 'Calibri';
 }
 html {
-  font-size: 14px;
+  font-size: 18px;
 }
 h1 {
   color: #ff8c1a;
@@ -13,7 +13,7 @@ h2 {
   color: #cc5200;
   font-family: 'Arvo', serif;
 }
-p {
+p, li {
   font-family: 'Poiret One', cursive;
 }
 
