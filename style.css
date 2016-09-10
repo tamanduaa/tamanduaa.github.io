@@ -4,9 +4,14 @@
 }
 h1 {
   color: #ff8c1a;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 h2 {
   color: #cc5200;
+  font-family: 'Arvo', serif;
+}
+p {
+  font-family: 'Poiret One', cursive;
 }
 
 li {
