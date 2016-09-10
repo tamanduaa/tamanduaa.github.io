@@ -100,12 +100,13 @@ justify-content:space-around;
   justify-content:center;
 }
 
-.hover02 ul li figure img {
-  width: 141px;
-  height: auto;
+.hover01 ul li figure img {
+  -webkit-transform: scale(1);
+  transform: scale(1);
   -webkit-transition: .3s ease-in-out;
   transition: .3s ease-in-out;
 }
-.hover02 ul li figure:hover img {
-  width: 141px;
+.hover01 ul li figure:hover img {
+  -webkit-transform: scale(1.3);
+  transform: scale(1.3);
 }
