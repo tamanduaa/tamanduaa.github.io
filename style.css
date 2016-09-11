@@ -131,7 +131,6 @@ hover02 a {
   position: fixed;
   bottom: 0;
   right: 0;
- 
-  background-color: #030303;
+  max-width:10%;
   padding:1em;
 }
