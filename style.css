@@ -140,6 +140,9 @@ figure {
   margin:0 auto;
 }
 
+.hover01, .hover02 {
+  z-index:0;
+}
 figure img:hover {
    z-index: 500;
 }
