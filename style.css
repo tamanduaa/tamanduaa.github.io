@@ -34,9 +34,10 @@ li {
   margin:0 auto;
 }
 
-header {
-  border-top: 20px solid #4d4d4d;
+body {
+  margin:0;
 }
+
  footer{
   border-top: 4px solid #4d4d4d;
 }
@@ -157,5 +158,5 @@ figure img:hover {
 }
 
 @edia (max-width: 999px){
-  .container2 {max-width:100%;}
+  .container2 {max-width:95%;}
 }
