@@ -132,5 +132,6 @@ hover02 a {
   bottom: 0;
   right: 0;
   width: 10%
-  background-color: blue;
+  background-color: #030303;
+  padding:2em;
 }
