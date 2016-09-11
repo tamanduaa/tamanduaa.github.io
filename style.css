@@ -159,6 +159,7 @@ figure img:hover {
 
 @media (max-width: 999px){
   .container2 {max-width:95%;}
+  html {font-size:22px;}
 }
 
 /*@media (min-width:1000px) and (max-width:1690px){
