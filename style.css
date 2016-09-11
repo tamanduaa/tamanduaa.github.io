@@ -1,6 +1,7 @@
 *{
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
   box-sizing:border-box;
-  font-family: 'Calibri';
 }
 html {
   font-size: 18px;
@@ -125,3 +126,11 @@ hover02 a {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 } 
+
+.fixed {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 10%
+  background-color: blue;
+}
