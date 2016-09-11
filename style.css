@@ -139,3 +139,7 @@ hover02 a {
 figure {
   margin:0 auto;
 }
+
+figure:hover {
+   z-index: 500;
+}
