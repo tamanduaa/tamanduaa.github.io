@@ -30,6 +30,9 @@ li {
   clear: both;
 }
 
+.container2 {
+  margin:0 auto;
+}
 
 header {
   border-top: 20px solid #4d4d4d;
@@ -149,6 +152,10 @@ figure img:hover {
 
 /* RESPONSIVE */
 
-@media (min-width: 600px) {
-  .container2 {max-width:60%; margin:0 auto;}
+@media (min-width: 1000px) {
+  .container2 {max-width:60%;}
+}
+
+@edia (max-width: 999px){
+  .container2 {max-width:100%;}
 }
