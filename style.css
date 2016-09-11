@@ -149,3 +149,10 @@ figure {
 figure img:hover {
    z-index: 500;
 }
+
+
+/* RESPONSIVE */
+
+@media (min-width: 600px) {
+  .container2 {max-width:60%;}
+}
