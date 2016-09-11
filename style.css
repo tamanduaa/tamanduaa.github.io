@@ -157,6 +157,6 @@ figure img:hover {
   .container2 {max-width:60%;}
 }
 
-@edia (max-width: 999px){
+@media (max-width: 999px){
   .container2 {max-width:95%;}
 }
