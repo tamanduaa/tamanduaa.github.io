@@ -79,7 +79,7 @@ aside, section{
 .nav {
   width:75%;
   display: flex;
-justify-content:space-around;
+justify-content: center;
 
 }
 
@@ -133,4 +133,5 @@ hover02 a {
   right: 0;
   max-width:10%;
   padding:1em;
+  background-color:#000;
 }
