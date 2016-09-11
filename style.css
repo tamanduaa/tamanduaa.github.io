@@ -115,13 +115,13 @@ justify-content:space-around;
   transform: scale(1.1);
 } 
 
-hover02 figure img {
+hover02 a {
   -webkit-transform: scale(1);
   transform: scale(1);
   -webkit-transition: .1s ease-in-out;
   transition: .1s ease-in-out;
 }
-.hover02 figure:hover img {
+.hover02 a:hover img {
   -webkit-transform: scale(1.1);
   transform: scale(1.1);
 } 
