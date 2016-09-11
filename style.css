@@ -153,10 +153,14 @@ figure img:hover {
 
 /* RESPONSIVE */
 
-@media (min-width: 1000px) {
+@media (min-width: 1690px) {
   .container2 {max-width:60%;}
 }
 
 @media (max-width: 999px){
   .container2 {max-width:95%;}
 }
+
+/*@media (min-width:1000px) and (max-width:1690px){
+
+}*/
