@@ -135,3 +135,7 @@ hover02 a {
   padding:1em;
   background-color:#000;
 }
+
+figure {
+  margin:0 auto;
+}
