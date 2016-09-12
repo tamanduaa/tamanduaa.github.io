@@ -152,7 +152,7 @@ figure img:hover {
 
 @media (min-width: 1690px) {
   .container2 {max-width:60%;}
-
+header {  height: 300px;}
 }
 
 @media (min-width:980px){
@@ -160,7 +160,7 @@ figure img:hover {
     height:270px;
     padding:10px;
 }
-  header {  height: 300px;}
+  
 }
 @media (min-width:962px){
   
