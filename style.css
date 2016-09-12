@@ -58,13 +58,7 @@ header {
   background-color: #fff;
 }
 
-aside, proj-image{
-  width: 25%;
-}
 
-section, proj-desc{
-  width: 75%;
-}
 
 .floatleft{
   float: left;
@@ -155,12 +149,26 @@ figure img:hover {
 
 @media (min-width: 1690px) {
   .container2 {max-width:60%;}
+  aside, proj-image{
+  width: 25%;
+}
+
+section, proj-desc{
+  width: 75%;
+}
 }
 
 @media (max-width: 999px){
   .container2 {max-width:95%;}
   html {font-size:22px;}
   aside {width:100%;}
+  aside, proj-image{
+  width: 100%;
+}
+
+section, proj-desc{
+  width: 100%;
+}
 }
 
 /*@media (min-width:1000px) and (max-width:1690px){
