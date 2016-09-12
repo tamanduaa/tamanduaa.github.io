@@ -74,10 +74,7 @@ section, proj-desc{
   float: right;
 }
 
-aside, section{
-  height:300px;
-  padding:10px;
-}
+
 
 .nav {
   width:75%;
@@ -155,6 +152,10 @@ figure img:hover {
 
 @media (min-width: 1690px) {
   .container2 {max-width:60%;}
+  aside, section{
+  height:300px;
+  padding:10px;
+}
 }
 
 @media (max-width: 999px){
