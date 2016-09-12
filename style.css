@@ -155,7 +155,7 @@ figure img:hover {
 header {  height: 300px;}
 }
 
-@media (min-width:980px){
+@media (min-width:1000px){
   aside, section{
     height:270px;
     padding:10px;
@@ -163,7 +163,7 @@ header {  height: 300px;}
   
 }
 @media (min-width:962px){
-  
+
 }
 
 @media (max-width: 999px){
