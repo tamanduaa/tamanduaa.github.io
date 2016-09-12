@@ -168,7 +168,7 @@ figure img:hover {
   aside {width:100%;}
   aside, proj-image{width: 100%;}
 
-section, proj-desc{
+section, proj-desc, .logo{
   width: 100%;
 }
 }
