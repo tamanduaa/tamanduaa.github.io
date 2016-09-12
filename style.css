@@ -160,9 +160,10 @@ figure img:hover {
     height:270px;
     padding:10px;
 }
+  header {  height: 300px;}
 }
 @media (min-width:962px){
-  header {  height: 300px;}
+  
 }
 
 @media (max-width: 999px){
