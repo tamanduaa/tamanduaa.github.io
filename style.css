@@ -59,11 +59,11 @@ header {
 }
 
 aside, proj-image{
-  width: 30%;
+  width: 25%;
 }
 
 section, proj-desc{
-  width: 70%;
+  width: 75%;
 }
 
 .floatleft{
