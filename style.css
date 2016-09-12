@@ -53,7 +53,7 @@ footer p, footer a {
 }
 
 header {
-  height: 300px;
+
   width: 100%;
   background-color: #fff;
 }
@@ -160,6 +160,7 @@ figure img:hover {
     height:270px;
     padding:10px;
 }
+  header {  height: 300px;}
 }
 
 @media (max-width: 999px){
