@@ -59,11 +59,11 @@ header {
 }
 
 aside, proj-image{
-  width: 25%;
+  width: 30%;
 }
 
 section, proj-desc{
-  width: 75%;
+  width: 70%;
 }
 
 .floatleft{
@@ -165,7 +165,6 @@ figure img:hover {
 @media (max-width: 999px){
   .container2 {max-width:95%;}
   html {font-size:22px;}
-  aside {width:100%;}
   aside, proj-image{width: 100%;}
 
 section, proj-desc, .logo{
