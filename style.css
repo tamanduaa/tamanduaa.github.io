@@ -165,7 +165,7 @@ figure img:hover {
 
 @media (max-width: 999px){
   .container2 {max-width:95%;}
-  html {font-size:22px;}
+  html {font-size:28px;}
   aside, proj-image{width: 100%;}
 
 section, proj-desc, .logo{
