@@ -174,7 +174,7 @@ figure img:hover {
   html {font-size:28px;}
   aside, proj-image{width: 100%;}
 
-section, proj-desc {
+section, proj-desc, .logo{
   width: 100%;
 }
 }
