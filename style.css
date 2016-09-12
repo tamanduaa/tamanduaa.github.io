@@ -152,9 +152,13 @@ figure img:hover {
 
 @media (min-width: 1690px) {
   .container2 {max-width:60%;}
+
+}
+
+@media (min-width:980px){
   aside, section{
-  height:300px;
-  padding:10px;
+    height:300px;
+    padding:10px;
 }
 }
 
@@ -162,9 +166,7 @@ figure img:hover {
   .container2 {max-width:95%;}
   html {font-size:22px;}
   aside {width:100%;}
-    aside, proj-image{
-  width: 100%;
-}
+  aside, proj-image{width: 100%;}
 
 section, proj-desc{
   width: 100%;
