@@ -5,4 +5,4 @@ $(document).ready(function() {
   var randJob = job[Math.floor(Math.random() * job.length)];
   $('#setting').text(randSetting);
   $('#job').text(randJob);
-})
+});
