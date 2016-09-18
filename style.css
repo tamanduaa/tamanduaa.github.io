@@ -30,6 +30,8 @@ li {
   clear: both;
 }
 
+.clearfix:after { clear:both; content:''; display:block; }
+
 .container2 {
   margin:0 auto;
 }
