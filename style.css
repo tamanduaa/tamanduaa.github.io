@@ -112,6 +112,7 @@ justify-content: center;
   transform: scale(1);
   -webkit-transition: .1s ease-in-out;
   transition: .1s ease-in-out;
+  padding:10px;
 }
 .hover01 figure:hover img {
   -webkit-transform: scale(1.1);
