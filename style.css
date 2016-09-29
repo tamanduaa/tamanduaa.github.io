@@ -188,5 +188,8 @@ section, proj-desc, .logo{
 
 }*/
 
-.grid-item { width: 200px; }
-.grid-item--width2 { width: 400px; }
+
+.grid-sizer,
+.grid-item { width: 20%; }
+/* 2 columns */
+.grid-item--width2 { width: 40%; }
