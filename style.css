@@ -187,3 +187,6 @@ section, proj-desc, .logo{
 /*@media (min-width:1000px) and (max-width:1690px){
 
 }*/
+
+.grid-item { width: 200px; }
+.grid-item--width2 { width: 400px; }
