@@ -201,6 +201,7 @@ section, proj-desc, .logo{
   border-color: hsla(0, 0%, 0%, 0.5);
   border-radius: 5px;
   max-width:100%
+  margin-bottom: 10px;
 }
 .grid-item img {
   max-width:100%;
@@ -215,6 +216,3 @@ section, proj-desc, .logo{
 .grid-item--height4 { height: 360px; }
 
 gutter: 10
-.grid-item {
-  margin-bottom: 10px;
-}
