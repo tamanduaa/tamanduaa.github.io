@@ -194,7 +194,7 @@ section, proj-desc, .logo{
 /* 2 columns */
 
 .grid-item {
-  height: 120px;
+  /*height: 120px;*/
   float: left;
   background: #D26;
   border: 2px solid #333;
