@@ -200,12 +200,14 @@ section, proj-desc, .logo{
   border: 2px solid #333;
   border-color: hsla(0, 0%, 0%, 0.5);
   border-radius: 5px;
+  max-width:100%
+}
+.grid-item img {
+  max-width:100%;
 }
 
-/*.grid-item--width2 { width:  40%; }
-.grid-item--width3 { width:  60%; }*/
-/*
+.grid-item--width3 { width:  60%; }
+
 .grid-item--height2 { height: 200px; }
 .grid-item--height3 { height: 260px; }
 .grid-item--height4 { height: 360px; }
-*/
