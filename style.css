@@ -213,3 +213,8 @@ section, proj-desc, .logo{
 .grid-item--height2 { height: 50%; }
 .grid-item--height3 { height: 400px; }
 .grid-item--height4 { height: 360px; }
+
+gutter: 10
+.grid-item {
+  margin-bottom: 10px;
+}
