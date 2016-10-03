@@ -190,7 +190,7 @@ section, proj-desc, .logo{
 
 
 .grid-sizer,
-.grid-item { width: 20%; }
+.grid-item { width: 20%; gutter: 10;}
 /* 2 columns */
 
 .grid-item {
@@ -215,4 +215,4 @@ section, proj-desc, .logo{
 .grid-item--height3 { height: 400px; }
 .grid-item--height4 { height: 360px; }
 
-gutter: 10
+
