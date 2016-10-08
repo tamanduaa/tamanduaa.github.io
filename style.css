@@ -157,10 +157,10 @@ figure img:hover {
 
 @media (min-width: 1690px) {
   .container2 {max-width:60%;}
-  header {  height: 300px;}
+  /*header {  height: 300px;}*/
 }
 @media (max-width:1689){
-  header img {height:50px; width:50px;}
+  /*header img {height:50px; width:50px;}*/
 }
 
 @media (min-width:1000px){
